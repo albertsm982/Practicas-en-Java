@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"quantik.control"},{"l":"quantik.excepcion"},{"l":"quantik.modelo"},{"l":"quantik.textui"},{"l":"quantik.undo"},{"l":"quantik.util"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.ubu.gii.edat.pr04","l":"MapaValoresUnicos"}];updateSearchResults();

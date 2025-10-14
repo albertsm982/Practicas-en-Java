@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.ubu.inf.edat.pr05","l":"ArbolBB"},{"p":"es.ubu.inf.edat.pr05","l":"ArbolBB.Nodo"}];updateSearchResults();

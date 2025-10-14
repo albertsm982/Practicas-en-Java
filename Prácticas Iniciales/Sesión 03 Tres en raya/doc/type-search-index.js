@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"juego.control","l":"ArbitroTresEnRaya"},{"p":"juego.modelo","l":"Celda"},{"p":"juego.modelo","l":"Color"},{"p":"juego.util","l":"Dirección"},{"p":"juego.modelo","l":"Jugador"},{"p":"juego.modelo","l":"Pieza"},{"p":"juego.modelo","l":"Tablero"},{"p":"juego.textui","l":"TresEnRaya"}];updateSearchResults();
